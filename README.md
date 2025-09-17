@@ -8,16 +8,14 @@ This project analyzes sales data to find customer insights and business opportun
 I used **SQL, PowerPoint** for the analysis and presentation.  
 
 ## 🛠 Tools Used
-- SQL → Data extraction & cleaning  
-- Excel → Data cleaning & Pivot analysis  
-- Power BI → Interactive dashboard  
+- SQL → Data extraction & cleaning    
 - PowerPoint → Presentation  
 
 ## 📊 Key Insights
 - Total sales & revenue trends  
 - Most popular pizzas & categories  
 - Best-selling pizza by revenue and quantity  
-- Sales distribution by gender and time  
+- Sales distribution by gender and time etc.
 
 
 link to access the ppt :
